@@ -1,0 +1,15 @@
+[[media]]
+file = "night.json.gz"
+name = "Six lights against the city"
+
+[[media]]
+file = "night.png"
+name = "The night thickens"
+
+[[media]]
+file = "title.png"
+name = "Keep the light"
+
+[[media]]
+file = "almanac.png"
+name = "Field notes from the dark"
